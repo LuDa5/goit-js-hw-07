@@ -1,0 +1,74 @@
+
+#categories {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    font-family: var(--font-family);
+  }
+  
+  
+  .item {
+    margin-bottom: 24px;
+    padding: 16px;
+    border: 2px solid #ccc; 
+    border-radius: 8px;
+    width: 392px;
+    background: #f6f6fe;
+  }
+
+  .item h2 {
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    font-size: 24px;
+    color: #2e2f42;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  .item ul {
+    list-style-type: disc;  
+    padding-left: 20px; 
+  }
+
+  .item ul li {
+    font-size: 18px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ddd; 
+    border-radius: 4px; 
+    width: 100%;
+height: 40px;
+  }
+  
+
+  .animal {
+    color: #2a9d8f; 
+  }
+  
+  .animal-list {
+    background-color: #f6f6fe; ;
+  }
+  
+  
+  .product {
+    color: #e76f51; 
+  }
+  
+  .product-list {
+    background-color: #f6f6fe;;
+  }
+  
+
+  .techno {
+    color: #264653;
+  }
+  
+  .techno-list {
+    background-color: #f6f6fe;; 
+  }
+
+
+
+
+
